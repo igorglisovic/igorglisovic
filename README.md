@@ -1,6 +1,6 @@
 ![Repository Banner](banner.png)
 <!--  -->
-# Hi! 👋 I'm [Igor](https://igorglisovic.com) 💻.
+# Hi!👋 I'm [Igor](https://igorglisovic.com) 💻.
 <!--  -->
 I'm a Frontend Web Developer. Thank You for taking the time to view my GitHub
 Profile :smile:
@@ -41,7 +41,7 @@ Profile :smile:
       />
     </td>
   </tr>
-  <tr style="background: white">
+  <tr>
     <td align="center" width="190">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"
