@@ -1,7 +1,9 @@
 ![Repository Banner](banner.png)
 <!--  -->
-# Hi! 👋 I'm [Igor](https://igorglisovic.com) 💻. I'm a Frontend Web Developer.
-Thank You for taking the time to view my GitHub Profile :smile:
+# Hi! 👋 I'm [Igor](https://igorglisovic.com) 💻.
+<!--  -->
+I'm a Frontend Web Developer. Thank You for taking the time to view my GitHub
+Profile :smile:
 <!--  -->
 ### Let's Connect 🔗
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/igor-glisovic/)
@@ -16,6 +18,8 @@ Thank You for taking the time to view my GitHub Profile :smile:
     <td align="center" width="190">
       <img
         src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png"
+        width="60"
+        height="60"
       />
     </td>
     <td align="center" width="190">
@@ -30,23 +34,10 @@ Thank You for taking the time to view my GitHub Profile :smile:
       />
     </td>
     <td align="center" width="190">
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
+      <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="190">
-      <img
-        src="https://git-scm.com/images/logos/1color-darkbg@2x.png"
-        width="100"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"
-        width="60"
-        height="40"
-      />
-    </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
     </td>
@@ -55,14 +46,27 @@ Thank You for taking the time to view my GitHub Profile :smile:
     </td>
     <td align="center">
       <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"
+      />
+    </td>
+    <td align="center" width="190">
+      <img
+        src="https://git-scm.com/images/logos/1color-darkbg@2x.png"
+        width="100"
+      />
+    </td>
+    <td align="center">
+      <img
         src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg"
       />
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" />
+      <img
+        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      />
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td align="center">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"
@@ -76,19 +80,5 @@ Thank You for taking the time to view my GitHub Profile :smile:
         width="60"
       />
     </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" />
-    </td>
-    <td align="center">
-      <img
-        src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg"
-        width="60"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      />
-    </td>
-  </tr>
+  </tr> -->
 </table>
