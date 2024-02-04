@@ -25,16 +25,20 @@ Profile :smile:
     <td align="center" width="190">
       <img
         src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg"
-        width="60"
+        width="50"
       />
     </td>
     <td align="center" width="190">
       <img
         src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
+        width="50"
       />
     </td>
     <td align="center" width="190">
-      <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" />
+      <img
+        src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg"
+        width="70"
+      />
     </td>
   </tr>
   <tr>
