@@ -41,7 +41,7 @@ Profile :smile:
       />
     </td>
   </tr>
-  <tr>
+  <tr style="background: white">
     <td align="center" width="190">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"
