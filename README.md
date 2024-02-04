@@ -42,6 +42,12 @@ Profile :smile:
     </td>
   </tr>
   <tr>
+    <td align="center" width="190">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"
+        width="60"
+      />
+    </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
     </td>
@@ -51,17 +57,6 @@ Profile :smile:
     <td align="center">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"
-      />
-    </td>
-    <td align="center" width="190">
-      <img
-        src="https://git-scm.com/images/logos/1color-darkbg@2x.png"
-        width="100"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg"
       />
     </td>
     <td align="center">
