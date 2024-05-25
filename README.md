@@ -6,8 +6,7 @@
   src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
 />](https://www.linkedin.com/in/igor-glisovic/) [<img
   src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000"
-/>](https://www.youtube.com/@CodingWithIgor) ![YouTube Channel
-Views](https://img.shields.io/youtube/channel/views/UCCIFp-Se_xjfYc94H04oK7Q) -
+/>](https://www.youtube.com/@CodingWithIgor)
 [![BR](https://igorglisovic.com/favicon.png)](https://igorglisovic.com/) Feel
 free to checkout my [portfolio](https://igorglisovic.com/) website! - 🏢 🧰 I
 build with: `React` `Next.js`, `JavaScript`, `TypeScript`, `Node.js`, `MongoDB`,
