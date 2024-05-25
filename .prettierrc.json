@@ -1,10 +1,7 @@
 {
   "overrides": [
     {
-      "files": ["*.md"],
-      "options": {
-        "parser": "html"
-      }
+      "files": ["*.md"]
     }
   ]
 }

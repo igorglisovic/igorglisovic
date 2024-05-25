@@ -7,11 +7,12 @@
 />](https://www.linkedin.com/in/igor-glisovic/) [<img
   src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000"
 />](https://www.youtube.com/@CodingWithIgor) [<img
-  src="https://igorglisovic.com/favicon.png"
-  width="16"
-  height="16"
-/>](https://igorglisovic.com/) Feel free to checkout my
-[portfolio](https://igorglisovic.com/) website! - 🏢 🧰 I build with: `React`
-`Next.js`, `JavaScript`, `TypeScript`, `Node.js`, `MongoDB`, `Tailwind` ... - ⚡
-I enjoy creating content, driving, and coding ofc. :) - 📫 Reach out to me:
-contact@igorglisovic.com
+src="https://igorglisovic.com/favicon.png"
+width="16"
+height="16"
+/>]
+
+- (https://igorglisovic.com/) Feel free to checkout my [portfolio](https://igorglisovic.com/) website!
+- 🧰 I build with: `React`, `Next.js`, `JavaScript`, `TypeScript`, `Node.js`, `MongoDB`, `Tailwind` ...
+- ⚡I enjoy creating content, driving, and coding ofc. :)
+- 📫 Reach out to me: contact@igorglisovic.com
